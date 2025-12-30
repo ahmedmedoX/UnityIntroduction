@@ -275,7 +275,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2add2aaa99bc98143a741f2111423f62, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::CubeFractal_Script
-  iterations: 3
+  iterations: 2
 --- !u!4 &959931174
 Transform:
   m_ObjectHideFlags: 0

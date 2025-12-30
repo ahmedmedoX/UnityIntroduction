@@ -9,8 +9,6 @@ public class InstancingPlayer_Script : MonoBehaviour
         Quaternion Rotation = new Quaternion();
         Instantiate(player, Starting_Point, Rotation);
     }
-
-    // Update is called once per frame
     void Update()
     {
         
