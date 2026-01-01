@@ -2,9 +2,10 @@ using UnityEngine;
 
 public class Enemy_Script : MonoBehaviour
 {
-    void Start()
+    Animator Enemy_Animator;
+    void Awake()
     {
-        
+        Enemy_Animator = this.GetComponent<Animator>();
     }
     void Update()
     {
@@ -14,8 +15,9 @@ public class Enemy_Script : MonoBehaviour
     {
         if (collision.CompareTag("Bullet"))
         {
+            Enemy_Animator.SetTrigger("Death");
             Debug.Log("Enemy Hit");
-            Destroy(transform.parent.gameObject);
+            //Destroy(transform.parent.gameObject);
         }
     }
 }
