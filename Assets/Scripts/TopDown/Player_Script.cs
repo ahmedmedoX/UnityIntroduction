@@ -1,17 +1,18 @@
 using UnityEngine;
-
 public class Player_Script : MonoBehaviour
 {
     Rigidbody2D Player_RigidBody;
     Animator Player_Animator;
-    public float Player_Speed = 2.0f;
+    float Player_Speed = 3.0f;
     bool isMoving = false;
-    bool isAttacking = false;
+    internal bool isAttacking = false;
+    internal int Direction = 0;
     void Start()
     {
         Player_RigidBody = this.GetComponent<Rigidbody2D>();
         Player_Animator = this.GetComponent<Animator>();
-        Player_Animator.SetInteger("Direction", 4);
+        Direction = 4;
+        Player_Animator.SetInteger("Direction", Direction);
     }
     void StopAttack()
     {
@@ -34,28 +35,32 @@ public class Player_Script : MonoBehaviour
             {
                 Player_RigidBody.position += new Vector2(0.0f, Player_Speed) * Time.deltaTime;
                 Player_Animator.SetBool("isRunning", true);
-                Player_Animator.SetInteger("Direction", 1);
+                Direction = 1;
+                Player_Animator.SetInteger("Direction", Direction);
                 isMoving = true;
             }
             if ((Input.GetKey(KeyCode.D) || Input.GetKey(KeyCode.RightArrow)) && !isMoving)
             {
                 Player_RigidBody.position += new Vector2(Player_Speed, 0.0f) * Time.deltaTime;
                 Player_Animator.SetBool("isRunning", true);
-                Player_Animator.SetInteger("Direction", 2);
+                Direction = 2;
+                Player_Animator.SetInteger("Direction", Direction);
                 isMoving = true;
             }
             if ((Input.GetKey(KeyCode.S) || Input.GetKey(KeyCode.DownArrow)) && !isMoving)
             {
                 Player_RigidBody.position += new Vector2(0.0f, -Player_Speed) * Time.deltaTime;
                 Player_Animator.SetBool("isRunning", true);
-                Player_Animator.SetInteger("Direction", 3);
+                Direction = 3;
+                Player_Animator.SetInteger("Direction", Direction);
                 isMoving = true;
             }
             if ((Input.GetKey(KeyCode.A) || Input.GetKey(KeyCode.LeftArrow)) && !isMoving)
             {
                 Player_RigidBody.position += new Vector2(-Player_Speed, 0.0f) * Time.deltaTime;
                 Player_Animator.SetBool("isRunning", true);
-                Player_Animator.SetInteger("Direction", 4);
+                Direction = 4;
+                Player_Animator.SetInteger("Direction", Direction);
                 isMoving = true;
             }
             if (!isMoving)

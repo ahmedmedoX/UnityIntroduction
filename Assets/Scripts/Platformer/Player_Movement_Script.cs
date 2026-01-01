@@ -1,4 +1,3 @@
-using Unity.VisualScripting;
 using UnityEngine;
 public class Player_Movement_Script : MonoBehaviour
 {
@@ -27,16 +26,18 @@ public class Player_Movement_Script : MonoBehaviour
             Player_Sprite.flipX = true;
             isMoving = true;
         }
-        if (Input.GetKeyDown(KeyCode.Space) && 
-            Mathf.Abs(Player_RigidBody.linearVelocityY) <= 0.00001f)
+        if (Input.GetKeyDown(KeyCode.Space) 
+            && !Player_Animator.GetBool("doJump")
+            && !Player_Animator.GetBool("isFalling"))
         {
+            isMoving = false;
             Player_Animator.SetBool("doJump", true);
             Player_Animator.SetBool("isRunning", false);
             Player_RigidBody.AddForce(Vector3.up * 3.0f, ForceMode2D.Impulse);
         }
-
         if(Player_RigidBody.linearVelocityY <= -0.00001f)
         {
+            isMoving = false;
             Player_Animator.SetBool("doJump", false);
             Player_Animator.SetBool("isRunning", false);
             Player_Animator.SetBool("isFalling", true);
