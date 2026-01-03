@@ -113,8 +113,13 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_Name: Enemy_Up_Death_Anim
   m_Speed: 0.5
+=======
+  m_Name: Enemy_Death_Anim
+  m_Speed: 1
+>>>>>>> parent of 3a0b5ee (Day5 Light Baking)
   m_CycleOffset: 0
   m_Transitions: []
   m_StateMachineBehaviours: []
@@ -461,7 +466,7 @@ AnimatorController:
   - m_Name: Direction
     m_Type: 3
     m_DefaultFloat: 0
-    m_DefaultInt: 1
+    m_DefaultInt: 0
     m_DefaultBool: 0
     m_Controller: {fileID: 9100000}
   m_AnimatorLayers:

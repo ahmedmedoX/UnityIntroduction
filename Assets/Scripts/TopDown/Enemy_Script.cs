@@ -2,6 +2,7 @@ using UnityEngine;
 
 public class Enemy_Script : MonoBehaviour
 {
+<<<<<<< HEAD
     GameObject Enemy_Explosion;
     Rigidbody2D Enemy_Rb;
     Animator Enemy_Animator;
@@ -18,6 +19,11 @@ public class Enemy_Script : MonoBehaviour
         Enemy_Explosion_Animator = Enemy_Explosion.GetComponent<Animator>();
         Start_Position = transform.position;
         Enemy_Rb.linearVelocity = new Vector3(0.0f, 0.5f, 0.0f);
+=======
+    void Start()
+    {
+        
+>>>>>>> parent of 3a0b5ee (Day5 Light Baking)
     }
     void Update()
     {
@@ -65,12 +71,17 @@ public class Enemy_Script : MonoBehaviour
     {
         if (collision.CompareTag("Bullet"))
         {
+<<<<<<< HEAD
             Died = true;
             Enemy_Animator.SetTrigger("Death");
             Enemy_Shadow_Animator.SetTrigger("Death");
             Enemy_Explosion.SetActive(true);
             Enemy_Explosion_Animator.SetTrigger("Explode");
             Debug.Log("Enemy Hit");
+=======
+            Debug.Log("Enemy Hit");
+            Destroy(transform.parent.gameObject);
+>>>>>>> parent of 3a0b5ee (Day5 Light Baking)
         }
     }
 }
