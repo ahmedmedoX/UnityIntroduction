@@ -7,11 +7,12 @@ TagManager:
   - Coin
   - Enemy
   - Bullet
+  - Magnetic Field
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Ground
   - Water
   - UI
   - 

@@ -1,0 +1,721 @@
+fileFormatVersion: 2
+guid: 5cdf33b6b9f594c449e09259fc8c5b5d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Saturn - Nanatsu Kaze no Shima Monogatari (JPN) - Winds - Purple Wind_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 269
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3e9a435b0060d418ef811c7743ec93
+      internalID: 380461812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Nanatsu Kaze no Shima Monogatari (JPN) - Winds - Purple Wind_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 266
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c0d5b0446634840a7aa89895c3bc62
+      internalID: 1006490841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Nanatsu Kaze no Shima Monogatari (JPN) - Winds - Purple Wind_2
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 263
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd0cf3addb6db8439b89b64b1b6e370
+      internalID: 1820818354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Nanatsu Kaze no Shima Monogatari (JPN) - Winds - Purple Wind_3
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 260
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a879a94ca43aac94aa951774b710e710
+      internalID: -318688671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Nanatsu Kaze no Shima Monogatari (JPN) - Winds - Purple Wind_4
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 255
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c553109e9016864389d235a82469b0e
+      internalID: -1369744097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Nanatsu Kaze no Shima Monogatari (JPN) - Winds - Purple Wind_5
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 252
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cfda734749555a45a64fc750984ca79
+      internalID: -883301807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Nanatsu Kaze no Shima Monogatari (JPN) - Winds - Purple Wind_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 186
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca083cbc65cc3d4883d029d3ccb8717
+      internalID: -1401013470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Nanatsu Kaze no Shima Monogatari (JPN) - Winds - Purple Wind_7
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 182
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f560320560179174783751ebcf47e426
+      internalID: -1379151454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Nanatsu Kaze no Shima Monogatari (JPN) - Winds - Purple Wind_8
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 173
+        width: 77
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3061e279d8f4c4c82899560ab093fe
+      internalID: 765833117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Nanatsu Kaze no Shima Monogatari (JPN) - Winds - Purple Wind_9
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 61
+        width: 107
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a61b537080f064d835b76fe447d198
+      internalID: -1917921835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Nanatsu Kaze no Shima Monogatari (JPN) - Winds - Purple Wind_11
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 61
+        width: 107
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5667e1b2755d344ebb2727ada565214
+      internalID: 461765222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Nanatsu Kaze no Shima Monogatari (JPN) - Winds - Purple Wind_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 20
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5398798f8a74be045b6f59d32fead44f
+      internalID: 1929018818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Nanatsu Kaze no Shima Monogatari (JPN) - Winds - Purple Wind_16
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 20
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912106f660284244691c7858196e0c68
+      internalID: -789078996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Nanatsu Kaze no Shima Monogatari (JPN) - Winds - Purple Wind_17
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 20
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8665b6a70a3a2a449802a748568b045
+      internalID: 361950996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Nanatsu Kaze no Shima Monogatari (JPN) - Winds - Purple Wind_18
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 20
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72071b14c616c314d91da6426af13552
+      internalID: 1959023384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Nanatsu Kaze no Shima Monogatari (JPN) - Winds - Purple Wind_19
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 20
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc58c006939d2444ab5c6863183c1be
+      internalID: -1089390395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Nanatsu Kaze no Shima Monogatari (JPN) - Winds - Purple Wind_20
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 20
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61b3d49201aaa5479af2cf6e76ca5a0
+      internalID: 390187788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Nanatsu Kaze no Shima Monogatari (JPN) - Winds - Purple Wind_21
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 6
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3a18740adeb4741a7c5b35a17765ea
+      internalID: -197216853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Nanatsu Kaze no Shima Monogatari (JPN) - Winds - Purple Wind_22
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 3
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dacd64f5d760e334e9e32343069f801f
+      internalID: 1035532434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Nanatsu Kaze no Shima Monogatari (JPN) - Winds - Purple Wind_23
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 3
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb6d49a264fdc645a5d8d8e2f82cc3e
+      internalID: -1730947898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Nanatsu Kaze no Shima Monogatari (JPN) - Winds - Purple Wind_24
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 2
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895a5f110f953c64aba4f5c63d0afa61
+      internalID: -417268423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Nanatsu Kaze no Shima Monogatari (JPN) - Winds - Purple Wind_25
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 2
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a582c906f5abd24a988dd2caa81db07
+      internalID: 762983953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Nanatsu Kaze no Shima Monogatari (JPN) - Winds - Purple Wind_26
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 0
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37b224490011264788a78aaefafac75
+      internalID: 1829884070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Nanatsu Kaze no Shima Monogatari (JPN) - Winds - Purple Wind_27
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 0
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ef64318715d6d468589a3988c29474
+      internalID: -172431357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Nanatsu Kaze no Shima Monogatari (JPN) - Winds - Purple Wind_28
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9aa24416a7e0e3489239ac1c1f509eb
+      internalID: 1196753744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Nanatsu Kaze no Shima Monogatari (JPN) - Winds - Purple Wind_29
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe477197042a64468c7a83490541d54
+      internalID: -156906016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 602d9a5e221eea941a619941a80b3daf
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":6.0,"y":4.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Saturn - Nanatsu Kaze no Shima Monogatari (JPN) - Winds - Purple Wind_0: 380461812
+      Saturn - Nanatsu Kaze no Shima Monogatari (JPN) - Winds - Purple Wind_1: 1006490841
+      Saturn - Nanatsu Kaze no Shima Monogatari (JPN) - Winds - Purple Wind_10: 551101854
+      Saturn - Nanatsu Kaze no Shima Monogatari (JPN) - Winds - Purple Wind_11: 461765222
+      Saturn - Nanatsu Kaze no Shima Monogatari (JPN) - Winds - Purple Wind_12: -116248845
+      Saturn - Nanatsu Kaze no Shima Monogatari (JPN) - Winds - Purple Wind_13: 2078469197
+      Saturn - Nanatsu Kaze no Shima Monogatari (JPN) - Winds - Purple Wind_14: -2026019891
+      Saturn - Nanatsu Kaze no Shima Monogatari (JPN) - Winds - Purple Wind_15: 1929018818
+      Saturn - Nanatsu Kaze no Shima Monogatari (JPN) - Winds - Purple Wind_16: -789078996
+      Saturn - Nanatsu Kaze no Shima Monogatari (JPN) - Winds - Purple Wind_17: 361950996
+      Saturn - Nanatsu Kaze no Shima Monogatari (JPN) - Winds - Purple Wind_18: 1959023384
+      Saturn - Nanatsu Kaze no Shima Monogatari (JPN) - Winds - Purple Wind_19: -1089390395
+      Saturn - Nanatsu Kaze no Shima Monogatari (JPN) - Winds - Purple Wind_2: 1820818354
+      Saturn - Nanatsu Kaze no Shima Monogatari (JPN) - Winds - Purple Wind_20: 390187788
+      Saturn - Nanatsu Kaze no Shima Monogatari (JPN) - Winds - Purple Wind_21: -197216853
+      Saturn - Nanatsu Kaze no Shima Monogatari (JPN) - Winds - Purple Wind_22: 1035532434
+      Saturn - Nanatsu Kaze no Shima Monogatari (JPN) - Winds - Purple Wind_23: -1730947898
+      Saturn - Nanatsu Kaze no Shima Monogatari (JPN) - Winds - Purple Wind_24: -417268423
+      Saturn - Nanatsu Kaze no Shima Monogatari (JPN) - Winds - Purple Wind_25: 762983953
+      Saturn - Nanatsu Kaze no Shima Monogatari (JPN) - Winds - Purple Wind_26: 1829884070
+      Saturn - Nanatsu Kaze no Shima Monogatari (JPN) - Winds - Purple Wind_27: -172431357
+      Saturn - Nanatsu Kaze no Shima Monogatari (JPN) - Winds - Purple Wind_28: 1196753744
+      Saturn - Nanatsu Kaze no Shima Monogatari (JPN) - Winds - Purple Wind_29: -156906016
+      Saturn - Nanatsu Kaze no Shima Monogatari (JPN) - Winds - Purple Wind_3: -318688671
+      Saturn - Nanatsu Kaze no Shima Monogatari (JPN) - Winds - Purple Wind_4: -1369744097
+      Saturn - Nanatsu Kaze no Shima Monogatari (JPN) - Winds - Purple Wind_5: -883301807
+      Saturn - Nanatsu Kaze no Shima Monogatari (JPN) - Winds - Purple Wind_6: -1401013470
+      Saturn - Nanatsu Kaze no Shima Monogatari (JPN) - Winds - Purple Wind_7: -1379151454
+      Saturn - Nanatsu Kaze no Shima Monogatari (JPN) - Winds - Purple Wind_8: 765833117
+      Saturn - Nanatsu Kaze no Shima Monogatari (JPN) - Winds - Purple Wind_9: -1917921835
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

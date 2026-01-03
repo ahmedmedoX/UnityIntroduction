@@ -1,0 +1,647 @@
+fileFormatVersion: 2
+guid: 6a669eadc90f2d342b7d5885a7ccc20e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC _ Computer - Drawn to Life_ Two Realms - Overworld Enemies - Cactus
+        Baki_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 62
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a313f301b8e88d40af6973ff9ee01fa
+      internalID: -1624541329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Drawn to Life_ Two Realms - Overworld Enemies - Cactus
+        Baki_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 62
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e2898983ee52d4986398307cc78b44
+      internalID: 1359987088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Drawn to Life_ Two Realms - Overworld Enemies - Cactus
+        Baki_2
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 62
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0905eeb0b1b9214b9bddc4782d9c597
+      internalID: 1409592052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Drawn to Life_ Two Realms - Overworld Enemies - Cactus
+        Baki_3
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 62
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ee92847e3c1c144bad2ff2e3d98042
+      internalID: -1409143348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Drawn to Life_ Two Realms - Overworld Enemies - Cactus
+        Baki_4
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 62
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b52a57a39ea284399e1c3dee2bf312
+      internalID: -1155290105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Drawn to Life_ Two Realms - Overworld Enemies - Cactus
+        Baki_5
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 62
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1ac581ebb77ec49bce09c6e137262e
+      internalID: 1465528404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Drawn to Life_ Two Realms - Overworld Enemies - Cactus
+        Baki_6
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 62
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d854643c859273e46955e59802524abc
+      internalID: 1241448847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Drawn to Life_ Two Realms - Overworld Enemies - Cactus
+        Baki_7
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 62
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99dab4bf7f7e54343a5f0638fe17d6a5
+      internalID: -805336070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Drawn to Life_ Two Realms - Overworld Enemies - Cactus
+        Baki_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ee85beafecbe94c9dc819a174f18a3
+      internalID: 1964223335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Drawn to Life_ Two Realms - Overworld Enemies - Cactus
+        Baki_9
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 32
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccef72178a15197499fb51570052a69b
+      internalID: -619627687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Drawn to Life_ Two Realms - Overworld Enemies - Cactus
+        Baki_10
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 32
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9165b132006068349bee43da6bd26f46
+      internalID: 1159699054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Drawn to Life_ Two Realms - Overworld Enemies - Cactus
+        Baki_11
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 32
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29752ecf6c43b347bb3c3d992d2b0c9
+      internalID: 1311703427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Drawn to Life_ Two Realms - Overworld Enemies - Cactus
+        Baki_12
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a37d8b7afe1794c9b2dd35126bdadb
+      internalID: -1008079165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Drawn to Life_ Two Realms - Overworld Enemies - Cactus
+        Baki_13
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 32
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13eb90f2d07a7d048b0d3deafcfa8845
+      internalID: 1082671911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Drawn to Life_ Two Realms - Overworld Enemies - Cactus
+        Baki_14
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 32
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d7e43c03644004f85b9dcbc33847bc
+      internalID: -1406297082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Drawn to Life_ Two Realms - Overworld Enemies - Cactus
+        Baki_15
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 32
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a2aaff6f3987b4194caddffbb4e635
+      internalID: -1638428850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Drawn to Life_ Two Realms - Overworld Enemies - Cactus
+        Baki_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd74a26825e6c624eae1ede2a2c1ee7b
+      internalID: -284672766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Drawn to Life_ Two Realms - Overworld Enemies - Cactus
+        Baki_17
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 2
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176c8a3c1d64be84c8bc293285b2332a
+      internalID: 1927758824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Drawn to Life_ Two Realms - Overworld Enemies - Cactus
+        Baki_18
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 2
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d02ce78503d204b8cd19ba5d2c0e82
+      internalID: 2083534415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Drawn to Life_ Two Realms - Overworld Enemies - Cactus
+        Baki_19
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 2
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28947766ecb2d94ab0e9ef4e9bdefb0
+      internalID: 1345000726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Drawn to Life_ Two Realms - Overworld Enemies - Cactus
+        Baki_20
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 2
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5b158cfd7e9cd4890eee8e64f10505
+      internalID: -1538309377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Drawn to Life_ Two Realms - Overworld Enemies - Cactus
+        Baki_21
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 2
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ccf2fba3bd5abc49af600a51fa98fd5
+      internalID: -1427560771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 039b8ef1979a9c8498913cb36dca909d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":2,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      PC _ Computer - Drawn to Life_ Two Realms - Overworld Enemies - Cactus Baki_0: -1624541329
+      PC _ Computer - Drawn to Life_ Two Realms - Overworld Enemies - Cactus Baki_1: 1359987088
+      PC _ Computer - Drawn to Life_ Two Realms - Overworld Enemies - Cactus Baki_10: 1159699054
+      PC _ Computer - Drawn to Life_ Two Realms - Overworld Enemies - Cactus Baki_11: 1311703427
+      PC _ Computer - Drawn to Life_ Two Realms - Overworld Enemies - Cactus Baki_12: -1008079165
+      PC _ Computer - Drawn to Life_ Two Realms - Overworld Enemies - Cactus Baki_13: 1082671911
+      PC _ Computer - Drawn to Life_ Two Realms - Overworld Enemies - Cactus Baki_14: -1406297082
+      PC _ Computer - Drawn to Life_ Two Realms - Overworld Enemies - Cactus Baki_15: -1638428850
+      PC _ Computer - Drawn to Life_ Two Realms - Overworld Enemies - Cactus Baki_16: -284672766
+      PC _ Computer - Drawn to Life_ Two Realms - Overworld Enemies - Cactus Baki_17: 1927758824
+      PC _ Computer - Drawn to Life_ Two Realms - Overworld Enemies - Cactus Baki_18: 2083534415
+      PC _ Computer - Drawn to Life_ Two Realms - Overworld Enemies - Cactus Baki_19: 1345000726
+      PC _ Computer - Drawn to Life_ Two Realms - Overworld Enemies - Cactus Baki_2: 1409592052
+      PC _ Computer - Drawn to Life_ Two Realms - Overworld Enemies - Cactus Baki_20: -1538309377
+      PC _ Computer - Drawn to Life_ Two Realms - Overworld Enemies - Cactus Baki_21: -1427560771
+      PC _ Computer - Drawn to Life_ Two Realms - Overworld Enemies - Cactus Baki_3: -1409143348
+      PC _ Computer - Drawn to Life_ Two Realms - Overworld Enemies - Cactus Baki_4: -1155290105
+      PC _ Computer - Drawn to Life_ Two Realms - Overworld Enemies - Cactus Baki_5: 1465528404
+      PC _ Computer - Drawn to Life_ Two Realms - Overworld Enemies - Cactus Baki_6: 1241448847
+      PC _ Computer - Drawn to Life_ Two Realms - Overworld Enemies - Cactus Baki_7: -805336070
+      PC _ Computer - Drawn to Life_ Two Realms - Overworld Enemies - Cactus Baki_8: 1964223335
+      PC _ Computer - Drawn to Life_ Two Realms - Overworld Enemies - Cactus Baki_9: -619627687
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
