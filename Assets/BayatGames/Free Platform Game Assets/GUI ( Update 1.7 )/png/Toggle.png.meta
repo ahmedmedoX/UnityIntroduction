@@ -1,12 +1,5 @@
 fileFormatVersion: 2
-guid: 0a1addae9aac34447b1e890a7ae76292
-AssetOrigin:
-  serializedVersion: 1
-  productId: 85838
-  packageName: Free Platform Game Assets
-  packageVersion: 1.9.4
-  assetPath: Assets/BayatGames/Free Platform Game Assets/GUI ( Update 1.7 )/png/Elements512x256.png
-  uploadId: 484258
+guid: f1b4f3ab5000dd64c83f903126918c06
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -46,7 +39,7 @@ TextureImporter:
     mipBias: 0
     wrapU: 1
     wrapV: 1
-    wrapW: 1
+    wrapW: 0
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -70,9 +63,9 @@ TextureImporter:
   compressionQualitySet: 0
   textureFormatSet: 0
   ignorePngGamma: 0
-  applyGammaDecoding: 1
+  applyGammaDecoding: 0
   swizzle: 50462976
-  cookieLightType: 1
+  cookieLightType: 0
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
@@ -104,13 +97,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Elements512x256_0
+      name: Toggle_0
       rect:
         serializedVersion: 2
-        x: 21
-        y: 187
-        width: 129
-        height: 53
+        x: 32
+        y: 54
+        width: 166
+        height: 161
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -119,20 +112,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cdc2264b94d9d944e9afb8feec4dc857
-      internalID: -172494979
+      spriteID: 1d1ebba3f301f6241b6f12a13af8a93b
+      internalID: 525120428
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Elements512x256_1
+      name: Toggle_1
       rect:
         serializedVersion: 2
-        x: 181
-        y: 187
-        width: 129
-        height: 53
+        x: 314
+        y: 54
+        width: 164
+        height: 161
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,118 +134,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c2728eb8c8070da4f9afaf69ee2f9ac1
-      internalID: 1704981453
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Elements512x256_2
-      rect:
-        serializedVersion: 2
-        x: 341
-        y: 187
-        width: 129
-        height: 53
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 26b091d2be7da564e8635ee6648bc27c
-      internalID: 12651633
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Elements512x256_3
-      rect:
-        serializedVersion: 2
-        x: 10
-        y: 15
-        width: 129
-        height: 128
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ad891b52a87f403458f4c8f48e960c63
-      internalID: 180880497
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Elements512x256_4
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 21
-        width: 128
-        height: 119
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b341624023bbc0242831e9e43a2d7954
-      internalID: -1242270004
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Elements512x256_5
-      rect:
-        serializedVersion: 2
-        x: 342
-        y: 100
-        width: 118
-        height: 72
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d5dc3992a02d3b14ea0aa95bd6ffaeb1
-      internalID: 824744840
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Elements512x256_6
-      rect:
-        serializedVersion: 2
-        x: 320
-        y: 20
-        width: 162
-        height: 72
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 16bea3c5644f2064d9bfe6fb4d24bdfd
-      internalID: -920796322
+      spriteID: eb84494cd8c32a54885e4d6e3c363e2b
+      internalID: 886272696
       vertices: []
       indices: 
       edges: []
@@ -261,7 +144,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 1707a893c53e08941b6ad953bf3ad491
+    spriteID: f001d7bd450f35e43bfd2daad12f1c36
     internalID: 0
     vertices: []
     indices: 
@@ -273,13 +156,8 @@ TextureImporter:
       - key: SpriteEditor.SliceSettings
         value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      Elements512x256_0: -172494979
-      Elements512x256_1: 1704981453
-      Elements512x256_2: 12651633
-      Elements512x256_3: 180880497
-      Elements512x256_4: -1242270004
-      Elements512x256_5: 824744840
-      Elements512x256_6: -920796322
+      Toggle_0: 525120428
+      Toggle_1: 886272696
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

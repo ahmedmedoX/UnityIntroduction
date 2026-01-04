@@ -1,14 +1,12 @@
 using UnityEngine;
 public class Score_Script : MonoBehaviour
 {
-    int Score = 0;
-    int Health = 100;
+    internal int Score = 0;
+    internal int Health = 100;
     Rigidbody2D Player_RigidBody;
-    //SpriteRenderer Player_Sprite;
     private void Awake()
     {
         Player_RigidBody = this.GetComponent<Rigidbody2D>();
-        //Player_Sprite = this.GetComponent<SpriteRenderer>();
     }
     private void OnTriggerEnter2D(Collider2D collision)
     {
