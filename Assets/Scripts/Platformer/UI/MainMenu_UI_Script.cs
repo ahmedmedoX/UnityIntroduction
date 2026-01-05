@@ -95,4 +95,8 @@ public class UI_Manager_Script : MonoBehaviour
         Application.Quit();
         Debug.Log("Game is exiting");
     }
+    void SetFullscreen()
+    {
+        Screen.fullScreen = !Screen.fullScreen;
+    }
 }
